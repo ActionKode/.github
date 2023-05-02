@@ -1,2 +1,2 @@
 ## Hi there 👋
-Actionkode is a game studio run by two teenager boys.
+Action Kode is a game studio run by two teenager boys. Current big project: Lil Brute and Friends.
