@@ -1,5 +1,5 @@
 ## Hi there 👋
-Acktionkode is a game studio run my two teenage boys <!-- and web service company -->  
+Actionkode is a game studio run my two teenage boys <!-- and web service company -->  
 ![Discord](https://img.shields.io/discord/930184318578466957?style=plastic)
 <!--
 
